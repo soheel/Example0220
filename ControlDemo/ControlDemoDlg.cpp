@@ -71,7 +71,7 @@ END_MESSAGE_MAP()
 BOOL CControlDemoDlg::OnInitDialog()
 {
 	CDialog::OnInitDialog();
-
+	int examplenum = 0;
 	// 시스템 메뉴에 "정보..." 메뉴 항목을 추가합니다.
 
 	// IDM_ABOUTBOX는 시스템 명령 범위에 있어야 합니다.
