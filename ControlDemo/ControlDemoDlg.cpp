@@ -15,6 +15,9 @@
 
 class CAboutDlg : public CDialog
 {
+
+
+
 public:
 	CAboutDlg();
 
